@@ -4,7 +4,7 @@ province.
  */
 
 package sheridanstudent;
-
+//remote'ta kucuk bir degisiklik
 public class Address {
     
     private String street;
