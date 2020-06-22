@@ -10,10 +10,10 @@ package sheridanstudent;
 
 public class SheridanStudent {
 
- 
+ //ikinci kucuk ekleme
     public static void main(String[] args) {
         
-        
+        //git icin kucuk yorum yazildi buraya, deneme yapiyorum
         Address address1 = new Address("2085 Islington Ave", "Etobicoke", "ON");
         Address address2 = new Address("2100 Islington Ave", "Etobicoke", "ON");
         

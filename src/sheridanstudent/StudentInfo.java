@@ -39,6 +39,8 @@ public class StudentInfo {
         this.number = number;
     }
 
+   
+
     public Address getAddress() {
         return address;
     }
